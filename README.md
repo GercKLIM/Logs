@@ -18,7 +18,7 @@
 ### 1. Клонирование репозитория
 Склонируйте проект с GitHub:
 ```bash
-git clone <URL вашего репозитория>
+git clone <git@github.com:GercKLIM/Logs.git>
 cd Logs
 ```
 
